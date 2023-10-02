@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+
+button{
+    width: 15%;
+    margin-left: 14vw;
+    margin-top: 5vh;
+    border-radius: 10px;
+}
+
+input{
+    margin-left: 8vw;
+    margin-top: 15px;
+    max-width: 50%;
+}
+
+div{
+    background-color: whitesmoke;
+    margin-left: 35vw;
+    margin-top: 40vh;
+    display: grid;
+    text-align: center;
+    width: 30%;
+    border-radius: 10px;
+}
